@@ -1,0 +1,13 @@
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.AssemblyInfoInputs.cache
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.AssemblyInfo.cs
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.csproj.CoreCompileInputs.cache
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.csprojAssemblyReference.cache
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.exe
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.deps.json
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.runtimeconfig.json
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.runtimeconfig.dev.json
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.dll
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\bin\Debug\netcoreapp3.1\QuicksortNew.pdb
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.dll
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.pdb
+C:\Users\ANDREAS\Desktop\QuicksortNew\QuicksortNew\obj\Debug\netcoreapp3.1\QuicksortNew.genruntimeconfig.cache
